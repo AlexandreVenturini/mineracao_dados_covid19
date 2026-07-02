@@ -2,6 +2,10 @@
 
 Projeto final da disciplina **Tópicos Especiais I (TSI)**, prof. Matheus Jagi. Pipeline completo de mineração de dados aplicado aos registros públicos de vacinação contra COVID-19 no Espírito Santo: coleta, limpeza, análise exploratória, clustering, detecção de outliers temporais e avaliação dos resultados.
 
+## Artigo
+
+**Segmentação de Perfis e Detecção de Anomalias Temporais na Campanha de Vacinação contra a Covid-19 no Espírito Santo** — artigo completo no formato SBC: [ler no Google Docs](https://docs.google.com/document/d/1BSNRcjCx-hSvrXQf2CiSYGXxezT-5UdBReMdw1PVQ9Q/edit?usp=sharing)
+
 ## Pergunta de pesquisa
 
 Como se comportou a campanha de vacinação contra COVID-19 no Espírito Santo ao longo do tempo? Existem perfis distintos de vacinados que reflitam a estratégia de priorização adotada?
